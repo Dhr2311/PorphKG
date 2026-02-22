@@ -29,7 +29,7 @@ You can recreate the knowledge graph by loading the provided Neo4j dump file:
 > Note: Neo4j dumps are generally not forward-compatible across major versions.  
 > If you are on Neo4j 5.x, you may need to use a Neo4j 4.x instance to load the dump first.
 
-### Option A: Neo4j local install (Neo4j 4.x)
+### Neo4j local install (Neo4j 4.x)
 
 1. Stop Neo4j (the load is an offline operation).
 2. Load the dump into a database (example database name: `neo4j`):
