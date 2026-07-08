@@ -1,6 +1,7 @@
 # Supplementary Table S1
 
-Pathway enrichment results across KEGG, Reactome, and WikiPathways.
+Pathway enrichment analysis of proteins/genes in PorphKG (total 61) occurring in KEGG, Reactome, and Wikipathways. The % of enriched genes represents the most commonly occurring gene or protein among the pathway databases. The P value threshold (EASE score) was set to <0.05 in the DAVID Functional Annotation tool.
+
 
 | Category | Database | Pathway | Enriched genes | P-value |
 |---|---|---|---:|---:|
@@ -64,4 +65,4 @@ Pathway enrichment results across KEGG, Reactome, and WikiPathways.
 | Signaling pathways | KEGG | TGF-beta signaling pathway | 7% | 0.0269 |
 | Signaling pathways | WikiPathways | CAMKK2 pathway | 7% | 0.0252 |
 
-> Each row represents one enriched pathway. Categories without a reported pathway in a given database are omitted.
+AA, amino acid; Ala, alanine; Asp, aspartate; B cell, B lymphocyte; CAMKK2, calcium/calmodulin dependent protein kinase kinase 2; CSNU, cystinuria; HFE, homeostatic iron regulator; HSC, hematopoietic stem cell; IDO, indoleamine 2,3 dioxygenase; IEMs, inborn errors of metabolism; KAR, kainate receptor; KEGG, Kyoto Encyclopedia of Genes and Genomes; NRF2, nuclear factor erythroid 2-related factor 2; PM, plasma membrane; SLC, solute carrier; TCA, tricarboxylic acid (cycle); TGF β, transforming growth factor beta; TNBC, triple negative breast cancer; Trp, tryptophan.
