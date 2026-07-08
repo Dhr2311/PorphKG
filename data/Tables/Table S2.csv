@@ -1,5 +1,3 @@
-Table S2. Terminology used in PorphKG, assigned as PKG:Biogical entity while building the knowledge graph.
-
 Identifier,Class ,Name,Reference PMID,Evidence sentence
 1,pathology,osteodystrophy,2064845,"Osteodystrophy is a general term for poor bone development or disease, here not referring to renal osteodystrophy in CEP (ID for renal osteodystrophy D012080)"
 2,pathology,nonhemochromatotic disorders,16315139,"Non-HFE hemochromatosis is a descriptive, collective term for rare types of hereditary hemochromatosis (HH) caused by mutations in other specific iron-regulating genes"
